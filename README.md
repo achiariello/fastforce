@@ -1,2 +1,2 @@
 # fastforce
-A Semi-Analytical Method for a Fast Estimation of the Magne-tostatic Forces
+A Semi-Analytical Method for a Fast Estimation of the Magnetostatic Forces
